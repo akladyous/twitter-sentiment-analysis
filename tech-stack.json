@@ -1,0 +1,14 @@
+{
+    "tech stack": [
+        "Jupyter Notebook",
+        "NumPy",
+        "Pandas",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "NLTK",
+        "Matplotlib",
+        "Seaborn",
+        "WordCloud"
+    ]
+}
