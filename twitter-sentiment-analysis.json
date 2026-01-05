@@ -1,0 +1,20 @@
+{
+    "tech stack": [
+        "Jupyter Notebook",
+        "NumPy",
+        "Pandas",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "NLTK",
+        "Matplotlib",
+        "Seaborn",
+        "WordCloud"
+    ],
+    "highlights": [
+        "Developed a high-end brand monitoring and sentiment analysis pipeline using Python and NLP techniques to classify public sentiment across 9,000+ labeled Twitter posts.",
+        "Engineered text representations with TF-IDF and GloVe embeddings to convert raw social media content into features suitable for deep learning models.",
+        "Trained and compared neural network architectures, including a TF-IDF–based deep neural network and an LSTM model, to evaluate performance under class imbalance.",
+        "Achieved an AUC score of 87% on a highly imbalanced dataset through model tuning and regularization, demonstrating reliable sentiment classification for brand analysis use cases."
+    ]
+}
